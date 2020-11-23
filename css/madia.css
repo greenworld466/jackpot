@@ -1,0 +1,325 @@
+/* Large devices */
+@media (max-width: 1199.98px) {
+  .payment-img {
+    width: 60px;
+    margin-right: 12px;
+  }
+  .navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 30px;
+  }
+  .navbar-light .navbar-nav .nav-link {
+    font-size: 14px;
+  }
+  .banner-text h4 {
+    top: 10px;
+    left: 40px;
+  }
+  .flag-text span {
+    margin-left: 45%;
+  }
+  .flag-text img {
+    left: 20%;
+  }
+  .btn:not(:disabled):not(.disabled) {
+    font-size: 16px;
+    padding: 0px 0px;
+  }
+}
+
+/* Medium devices */
+@media (max-width: 991.98px) {
+  .navbar-toggler i {
+    color: #fff;
+    font-size: 30px;
+  }
+  .navbar-nav {
+    text-align: center;
+    padding: 10px 0;
+    background: #150035;
+  }
+  .navbar {
+    position: absolute;
+  }
+  .banner-text h4 {
+    font-size: 18px;
+    top: -12px;
+    left: 15px;
+  }
+  .banner-img img {
+    margin-left: -35px;
+  }
+  .banner-text p {
+    font-size: 10px;
+    line-height: 20px;
+  }
+  .banner-text a {
+    padding: 10px 25px;
+    margin-top: 5px;
+  }
+  .game-overly h5 {
+    font-size: 20px;
+    padding-bottom: 20px;
+    margin-top: 15px;
+  }
+  .game-overly a {
+    font-size: 17px;
+    padding: 7px 20px;
+  }
+  .unlock-item h3 {
+    font-size: 30px;
+    padding-bottom: 20px;
+  }
+  .unlock-item p {
+    font-size: 12px;
+    line-height: 22px;
+    padding-bottom: 15px;
+  }
+  .plan-item a {
+    font-size: 18px;
+    padding: 10px 20px;
+  }
+  .plan-item p {
+    font-size: 14px;
+    padding-top: 15px;
+  }
+  .Frequently-text h3 {
+    font-size: 23px;
+  }
+  .card-body {
+    font-size: 10px;
+    padding-top: 10px;
+  }
+  .btn:not(:disabled):not(.disabled) {
+    font-size: 9px;
+    padding: 0px 0px;
+  }
+  .time h5 {
+    font-size: 15px;
+    margin-top: 20px;
+  }
+  .time_dat {
+    width: 44px;
+    margin-top: 20px;
+  }
+  .time_dat h4 {
+    font-size: 10px;
+  }
+  .flag-text span {
+    margin-left: 5%;
+  }
+  .flag-text img {
+    left: 5%;
+  }
+  .payment-img {
+    width: 34px;
+    margin-right: 5px;
+  }
+  .payment-item h3 {
+    font-size: 26px;
+  }
+  .about-item h3 {
+    font-size: 20px;
+  }
+  .about-item p {
+    font-size: 10px;
+    line-height: 20px;
+  }
+  .about-icon i {
+    font-size: 16px;
+    height: 38px;
+    width: 32px;
+    line-height: 38px;
+    margin-right: 2px;
+  }
+  .about-menu ul li {
+    margin-top: 10px;
+  }
+}
+
+/* Small devices */
+@media (max-width: 767.98px) {
+  .navbar-toggler i {
+    color: #fff;
+    font-size: 30px;
+  }
+  .navbar-nav {
+    text-align: center;
+    padding: 10px 0;
+    background: #150035;
+  }
+  .navbar {
+    position: absolute;
+  }
+  .banner-text h4 {
+    font-size: 18px;
+    top: -12px;
+    left: 15px;
+  }
+  .banner-img img {
+    margin-left: -35px;
+  }
+  .banner-text p {
+    font-size: 10px;
+    line-height: 20px;
+  }
+  .banner-text a {
+    padding: 10px 25px;
+    margin-top: 5px;
+  }
+  .game-overly h5 {
+    font-size: 20px;
+    padding-bottom: 20px;
+    margin-top: 15px;
+  }
+  .game-overly a {
+    font-size: 17px;
+    padding: 7px 20px;
+  }
+  .unlock-item h3 {
+    font-size: 30px;
+    padding-bottom: 20px;
+  }
+  .unlock-item p {
+    font-size: 12px;
+    line-height: 22px;
+    padding-bottom: 15px;
+  }
+  .plan-item a {
+    font-size: 18px;
+    padding: 10px 20px;
+  }
+  .plan-item p {
+    font-size: 14px;
+    padding-top: 15px;
+  }
+  .Frequently-text h3 {
+    font-size: 23px;
+  }
+  .card-body {
+    font-size: 10px;
+    padding-top: 10px;
+  }
+  .btn:not(:disabled):not(.disabled) {
+    font-size: 9px;
+    padding: 0px 0px;
+  }
+  .time h5 {
+    font-size: 15px;
+    margin-top: 20px;
+  }
+  .time_dat {
+    width: 44px;
+    margin-top: 20px;
+  }
+  .time_dat h4 {
+    font-size: 10px;
+  }
+  .flag-text span {
+    margin-left: 5%;
+  }
+  .flag-text img {
+    left: 5%;
+  }
+  .payment-img {
+    width: 34px;
+    margin-right: 5px;
+  }
+  .payment-item h3 {
+    font-size: 26px;
+  }
+  .about-item h3 {
+    font-size: 20px;
+  }
+  .about-item p {
+    font-size: 10px;
+    line-height: 20px;
+  }
+  .about-icon i {
+    font-size: 16px;
+    height: 38px;
+    width: 32px;
+    line-height: 38px;
+    margin-right: 2px;
+  }
+  .about-menu ul li {
+    margin-top: 10px;
+  }
+}
+
+/* Extra small devices */
+@media (max-width: 575.98px) {
+  .navbar-toggler i {
+    color: #fff;
+    font-size: 30px;
+  }
+  .navbar-nav {
+    text-align: center;
+    padding: 10px 0;
+    background: #150035;
+  }
+  .navbar {
+    position: absolute;
+  }
+  .banner-img img {
+    margin-left: -5px;
+    margin-top: 35px;
+  }
+  .banner-text h4 {
+    top: -20px;
+  }
+  .banner-text p {
+    font-size: 14px;
+  }
+  .counter-item {
+    width: 100%;
+    margin-top: 5%;
+  }
+  .game-item {
+    margin-top: 20px;
+  }
+  .unlock-item h3 {
+    font-size: 39px;
+    padding-bottom: 20px;
+  }
+  .unlock-item p {
+    font-size: 14px;
+    line-height: 24px;
+    padding-bottom: 15px;
+  }
+  .plan-text h3 {
+    font-size: 45px;
+    padding-bottom: 40px;
+  }
+  .plan-item {
+    margin-top: 100px;
+  }
+  .Frequently-text h3 {
+    font-size: 28px;
+  }
+  .btn:not(:disabled):not(.disabled) {
+    font-size: 12px;
+
+    padding: 0 0 0 0;
+  }
+  .card-body {
+    font-size: 10px;
+  }
+  .time_dat {
+    width: 100%;
+  }
+  .flag-text span {
+    margin-left: 20%;
+  }
+  .flag-text img {
+    left: 5%;
+  }
+  .payment-item h3 {
+    margin-top: 20px;
+  }
+  .payment-img {
+    width: 43px;
+  }
+  .about-item h3 {
+    margin-top: 20px;
+  }
+}
